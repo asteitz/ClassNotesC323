@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="find_flowers">Find Flowers</string>
+    <string-array name="flower_colors">
+        <item>White</item>
+        <item>Red</item>
+        <item>Purple</item>
+        <item>Yellow</item>
+        <item>Blue</item>
+    </string-array>
+</resources>
